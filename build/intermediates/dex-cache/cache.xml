@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mariomerendino/.android/build-cache/4999c107620f57c95325d0f909cc319fbbb4afa1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mariomerendino/AndroidStudioProjects/TicTacToe/app/build/intermediates/pre-dexed/debug/classes_1fabcc206cbe472545c62ab6b4b8167862ccdfa6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariomerendino/.android/build-cache/8562082657c0af35f011744e4ac4e72dbdfae362/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/mariomerendino/AndroidStudioProjects/TicTacToe/app/build/intermediates/pre-dexed/debug/classes_16826cd9333ccec01489212cd5b36b5a7a3825e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariomerendino/.android/build-cache/84758ed68656c3a5560939b30a7252ff7850db4d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/mariomerendino/AndroidStudioProjects/TicTacToe/app/build/intermediates/pre-dexed/debug/classes_8d80b037847f9b150b45861ef4d707fa0ee1e5b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariomerendino/.android/build-cache/67bef1e44c97af2aa5ac08c0f23d073f158ba954/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/mariomerendino/AndroidStudioProjects/TicTacToe/app/build/intermediates/pre-dexed/debug/classes_4dca649d80613cecdd08e8f38247887ebc3ac7a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariomerendino/.android/build-cache/720ef99188170c7fdb87fcff9661f6c500e7b79f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/mariomerendino/AndroidStudioProjects/TicTacToe/app/build/intermediates/pre-dexed/debug/classes_d4831a2bafd0cb2bcb7306d715147d19bf7dc295.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariomerendino/.android/build-cache/e83fc7b773e210e50d069e0319a1edaaa7fef597/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/mariomerendino/AndroidStudioProjects/TicTacToe/app/build/intermediates/pre-dexed/debug/classes_bfb5347f37c24aacc692783bd5b50fa02662a827.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariomerendino/.android/build-cache/5d3a3240c471edf9a49a6e76a7c5199a262d7dfd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/mariomerendino/AndroidStudioProjects/TicTacToe/app/build/intermediates/pre-dexed/debug/classes_370376791227d068f71fe31896b94345035267a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariomerendino/.android/build-cache/ac39326619e131d040d5ea0d96ce31e6c7c5b43a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/mariomerendino/AndroidStudioProjects/TicTacToe/app/build/intermediates/pre-dexed/debug/classes_d94f09ee640bffa0c7005efeef683ca5e83343d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariomerendino/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/mariomerendino/AndroidStudioProjects/TicTacToe/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_ce3ad701c0e330aa2aaee588907150e16df7b781.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariomerendino/.android/build-cache/79ae4998b108376575e6a98b85eee48fca454f9a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/mariomerendino/AndroidStudioProjects/TicTacToe/app/build/intermediates/pre-dexed/debug/classes_b8a7ada5020c3d1f551aa2ac2775a298df583402.jar" />
+    </item>
+
+</items>
